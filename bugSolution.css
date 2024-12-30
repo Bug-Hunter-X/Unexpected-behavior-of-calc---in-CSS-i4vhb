@@ -1,0 +1,1 @@
+The solution adds a defined width to the parent element to ensure that `calc(100% - 10px)` works as expected. The `bugSolution.css` file demonstrates the fix.
